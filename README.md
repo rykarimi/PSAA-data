@@ -5,7 +5,7 @@ The available data and results in this project are the exact data used in the pa
 
 The data and results corresponding to each Table 1-9 is stored in a seperate folder indicated by Table number in the paper.
 
-Tables 1-6 compare the performances of the PSAA-RHS approximation with two different approximation approaches existing in the literature i.e., SA-RHS, and SAA-RHS. In our experiments, we consider various numbers of scenarios N, including N^* = 2253 obtained from Theorem 1 using \beta = 0.05. Moreover, we choose ten segments for the piecewise linear approximations in the interval [-4,4]. The reliability parameter is set to p = 95% in all of the experiments, and we use 100,000 testing samples to calculate the empirical probability.
+Tables 1-6 compare the performances of the PSAA-RHS approximation with two different approximation approaches existing in the literature i.e., SA-RHS, and SAA-RHS. In our experiments, we consider various numbers of scenarios N, including N* = 2253 obtained from Theorem 1 using \beta = 0.05. Moreover, we choose ten segments for the piecewise linear approximations in the interval [-4,4]. The reliability parameter is set to p = 95% in all of the experiments, and we use 100,000 testing samples to calculate the empirical probability.
 We use ten randomly generated datasets for the experiments.
 We report in Tables 1-6 the averages (over the 10 datasets) of the metrics for each compared method or formulation, using different eigenvalue generation functions.
 
